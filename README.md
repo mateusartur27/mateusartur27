@@ -1,14 +1,14 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mateus%20Artur&fontAlign=50&fontAlignY=36&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&desc=Engenharia%20de%20Software%20%7C%20Backend%20%7C%20Arquitetura%20de%20Sistemas&descAlign=50&descAlignY=56" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mateus%20Artur&fontAlign=50&fontAlignY=36&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&desc=Engenharia%20de%20Software%20%7C%20Backend%20e%20Frontend%20%7C%20Arquitetura%20de%20Sistemas&descAlign=50&descAlignY=56" />
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=780&lines=Construindo+solu%C3%A7%C3%B5es+digitais+com+clareza+e+prop%C3%B3sito;Foco+em+backend%2C+arquitetura+e+boas+pr%C3%A1ticas;C%C3%B3digo+limpo%2C+documenta%C3%A7%C3%A3o+forte+e+evolu%C3%A7%C3%A3o+cont%C3%ADnua" alt="typing intro" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=780&lines=Construindo+solu%C3%A7%C3%B5es+digitais+com+clareza+e+prop%C3%B3sito;Foco+em+backend%2C+frontend%2C+arquitetura+e+boas+pr%C3%A1ticas;C%C3%B3digo+limpo%2C+documenta%C3%A7%C3%A3o+forte+e+evolu%C3%A7%C3%A3o+cont%C3%ADnua" alt="typing intro" />
 </p>
 
 <p align="center">
 	<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=mateusartur27&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-	<img alt="Focus" src="https://img.shields.io/badge/Focus-Backend%20%26%20Arquitetura-1f6feb?style=for-the-badge" />
+	<img alt="Focus" src="https://img.shields.io/badge/Focus-Backend%20%26%20Frontend%20%26%20Arquitetura-1f6feb?style=for-the-badge" />
 	<img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea043?style=for-the-badge" />
 </p>
 
