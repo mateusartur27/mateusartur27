@@ -26,12 +26,6 @@ Gosto de transformar conceitos tecnicos em solucoes praticas, bem estruturadas e
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff" />
 </p>
 
-## Projeto em destaque
-### Arquitetura do WhatsApp: C4, Stack e Kafka
-Apresentacao tecnica interativa com foco em arquitetura de sistema, tecnologias e fluxo de eventos.
-
-- Repositorio: https://github.com/mateusartur27/apresentacao-whatsapp
-
 ## Contato
 <p>
 	<a href="mailto:mateus2002ns@gmail.com">
