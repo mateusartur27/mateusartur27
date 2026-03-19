@@ -35,10 +35,6 @@ Gosto de transformar conceitos técnicos em soluções práticas, bem estruturad
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff" />
 </p>
 
-<p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusartur27&layout=compact&langs_count=10&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
 ## Contato
 <p>
 	<a href="mailto:mateus2002ns@gmail.com">
