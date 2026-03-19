@@ -1,9 +1,9 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mateus%20Artur%20Santos&fontAlign=50&fontAlignY=36&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&desc=Engenharia%20de%20Software%20%7C%20Backend%20%7C%20Arquitetura%20de%20Sistemas&descAlign=50&descAlignY=56" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mateus%20Artur&fontAlign=50&fontAlignY=36&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&desc=Engenharia%20de%20Software%20%7C%20Backend%20%7C%20Arquitetura%20de%20Sistemas&descAlign=50&descAlignY=56" />
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=780&lines=Construindo+solucoes+digitais+com+clareza+e+proposito;Foco+em+backend%2C+arquitetura+e+boas+praticas;Codigo+limpo%2C+documentacao+forte+e+evolucao+continua" alt="typing intro" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=780&lines=Construindo+solu%C3%A7%C3%B5es+digitais+com+clareza+e+prop%C3%B3sito;Foco+em+backend%2C+arquitetura+e+boas+pr%C3%A1ticas;C%C3%B3digo+limpo%2C+documenta%C3%A7%C3%A3o+forte+e+evolu%C3%A7%C3%A3o+cont%C3%ADnua" alt="typing intro" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## Sobre mim
 Sou estudante de Engenharia de Software, com interesse em desenvolvimento web e arquitetura de sistemas.
-Gosto de transformar conceitos tecnicos em solucoes praticas, bem estruturadas e com boa experiencia para o usuario.
+Gosto de transformar conceitos técnicos em soluções práticas, bem estruturadas e com boa experiência para o usuário.
 
 ## Stack principal
 <p>
@@ -42,7 +42,7 @@ Gosto de transformar conceitos tecnicos em solucoes praticas, bem estruturadas e
 ## Contato
 <p>
 	<a href="mailto:mateus2002ns@gmail.com">
-		<img src="https://img.shields.io/badge/Email-Contato%20Direto-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+		<img src="https://img.shields.io/badge/Email-mateus2002ns%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" />
 	</a>
 	<a href="https://wa.me/5537991389822">
 		<img src="https://img.shields.io/badge/WhatsApp-37%2099138--9822-25D366?style=for-the-badge&logo=whatsapp&logoColor=ffffff" />
